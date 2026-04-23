@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 cake
 adobo
 flan
+=======
+lord 1
+lord 2
+lord 3
+>>>>>>> movies
